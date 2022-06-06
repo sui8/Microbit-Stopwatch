@@ -1,5 +1,12 @@
+# micro:bit Stopwatch
 
-> このページを開く [https://suiken-dev.github.io/microbit-stopwatch/](https://suiken-dev.github.io/microbit-stopwatch/)
+micro:bitで作成したストップウォッチプログラムです。
+Aボタンでスタート・ストップ、Bボタンでラップ、A+Bボタンでリセットが可能です。
+
+※以下テンプレートとなります※
+
+
+> このページを開く [https://sui8.github.io/microbit-stopwatch/](https://sui8.github.io/microbit-stopwatch/)
 
 ## 拡張機能として使用
 
