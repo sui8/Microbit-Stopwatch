@@ -15,7 +15,7 @@ Aボタンでスタート・ストップ、Bボタンでラップ、A+Bボタン
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/suiken-dev/microbit-stopwatch** を検索してインポートします。
+* **https://github.com/sui8/microbit-stopwatch** を検索してインポートします。
 
 ## このプロジェクトを編集します ![ビルド ステータス バッジ](https://github.com/suiken-dev/microbit-stopwatch/workflows/MakeCode/badge.svg)
 
